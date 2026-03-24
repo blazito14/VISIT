@@ -19,9 +19,9 @@ This folder contains everything needed to run the scheduler with as little setup
 2. Copy the Teacher Response form located [here](https://docs.google.com/forms/d/1g8YOdl-VipPWdG_wlhJtn_TcVO_2YgEighP2WUMV2bw/copy)
 3. Publish the forms and share the respective links with students and teachers
 4. Link each form response to Google Sheets
-5. Download each sheet as a .csv
+5. Download each sheet as a `.csv`
 6. Install Python [here](https://www.python.org/downloads/)
-7. Download this project from GitLab as a .zip
+7. Download this project from GitLab as a `.zip`
 8. Unzip the folder
 9. Double-click `setup.bat`
 10. Double-click `run_scheduler.bat`
