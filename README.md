@@ -26,7 +26,7 @@ This folder contains everything needed to run the scheduler with as little setup
 9. Double-click `setup.bat`
 10. Double-click `run_scheduler.bat`
 11. Choose the two CSV files and click **Run Scheduler**
-12. Follow the propmts
+12. Follow the prompts to select each csv and a desired output folder
 13. Use the outputs to automatically and manually schedule groups
 
 ## Notes
